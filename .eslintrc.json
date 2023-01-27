@@ -15,8 +15,6 @@
     "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended"],
     "plugins": ["react"],
     "rules": {
-      "no-param-reassign":"off",
-      "jsx-a11y/control-has-associated-label":"off",
       "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
       "react/react-in-jsx-scope": "off",
       "import/no-unresolved": "off",
